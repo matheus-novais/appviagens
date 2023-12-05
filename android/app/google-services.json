@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "123008954241",
+    "project_id": "appviagens-ef888",
+    "storage_bucket": "appviagens-ef888.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123008954241:android:cdbad7a80051addc6c0280",
+        "android_client_info": {
+          "package_name": "com.mycompany.appviagens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123008954241-o1a2kvmgmje9ul214uk9l8qjmdkme37m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxGjdl-bSgpKc1gUCc4TnU5AwtxuS2BSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123008954241-o1a2kvmgmje9ul214uk9l8qjmdkme37m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "123008954241-2lsksaidg1gb4oj35ng0jq8g8isucpis.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.appviagens"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
